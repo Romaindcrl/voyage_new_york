@@ -166,3 +166,44 @@ Ci-dessous, 5 tâches parmi les plus urgentes ou structurantes, détaillées sel
 | **Élaboration du budget détaillé et suivi**   | Responsable : Membre de l’équipe Budget.      | Rassembler coûts, mettre en place tableau de suivi. | Excel/Google Sheets.                | Estimation : janvier-février 2025. Mise à jour continue.   | Créer tableau, suivre écarts, ajuster.            |
 
 ---
+
+gantt
+    title Diagramme de Gantt pour le projet de voyage à New York
+    dateFormat  YYYY-MM-DD
+    section Planification générale
+    Définition des objectifs         :2025-01-01, 2025-01-07
+    Constitution de l’équipe projet  :2025-01-08, 2025-01-14
+    Établissement du calendrier global:2025-01-15, 2025-01-21
+
+    section Transport
+    Sélection et réservation des vols:2025-01-22, 2025-02-28
+    Organisation des transferts locaux:2025-03-01, 2025-03-15
+
+    section Hébergement
+    Repérage et comparaison des hébergements:2025-02-01, 2025-02-28
+    Réservation des chambres            :2025-03-01, 2025-03-15
+
+    section Activités et visites
+    Programmation des visites culturelles:2025-04-01, 2025-04-30
+    Organisation des rencontres avec les incubateurs:2025-05-01, 2025-05-15
+    Réservation d’activités de groupe   :2025-05-16, 2025-05-31
+
+    section Logistique et restauration
+    Gestion des repas                  :2025-03-16, 2025-03-31
+    Transports internes                :2025-04-01, 2025-04-15
+    Assurances voyage et formalités    :2025-04-16, 2025-04-30
+
+    section Communication et administration
+    Communication interne              :2025-01-01, 2025-06-01
+    Communication externe              :2025-01-01, 2025-06-01
+    Gestion des documents et autorisations:2025-01-15, 2025-02-15
+
+    section Gestion du budget
+    Estimation du budget global        :2025-01-01, 2025-02-28
+    Suivi et contrôle des dépenses      :2025-03-01, 2025-06-01
+    Recherche d’éventuelles subventions:2025-01-15, 2025-02-28
+
+    section Suivi et contrôle du projet
+    Mise à jour du planning            :2025-01-01, 2025-06-01
+    Gestion des risques                :2025-01-01, 2025-06-01
+    Clôture et bilan du projet         :2025-06-02, 2025-06-15
