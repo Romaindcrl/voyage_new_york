@@ -212,27 +212,13 @@ gantt
 
 
 flowchart LR
-    %% Définition des nœuds
-    1["1: Début
-    ES:0 | LS:0
-    Durée: 0"]
-    2["2: Conception
-    ES:5 | LS:5
-    Durée: 5"]
-    3["3: Planification
-    ES:3 | LS:8
-    Durée: 3"]
-    4["4: Développement
-    ES:12 | LS:12
-    Durée: 7"]
-    5["5: Tests
-    ES:15 | LS:15
-    Durée: 3"]
-    6["6: Fin
-    ES:18 | LS:18
-    Durée: 0"]
+    1["1: Début\nES:0|LS:0\nD:0"]
+    2["2: Conception\nES:5|LS:5\nD:5"]
+    3["3: Planification\nES:3|LS:8\nD:3"]
+    4["4: Développement\nES:12|LS:12\nD:7"]
+    5["5: Tests\nES:15|LS:15\nD:3"]
+    6["6: Fin\nES:18|LS:18\nD:0"]
 
-    %% Définition des liens
     1 --> 2
     1 --> 3
     2 --> 4
@@ -240,6 +226,5 @@ flowchart LR
     4 --> 5
     5 --> 6
 
-    %% Style pour le chemin critique
-    classDef critical fill:#ff9666,stroke:#333,stroke-width:2px;
-    class 1,2,4,5,6 critical;
+    classDef critical fill:#ff9666,stroke:#333,stroke-width:2px
+    class 1,2,4,5,6 critical
