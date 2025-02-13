@@ -211,20 +211,4 @@ gantt
     Clôture et bilan du projet         :2025-06-02, 2025-06-15
 
 
-graph LR
-    1[Début 0|0]
-    2[Conception 5|5]
-    3[Planning 3|8]
-    4[Dev 12|12]
-    5[Test 15|15]
-    6[Fin 18|18]
 
-    1 --> 2
-    1 --> 3
-    2 --> 4
-    3 --> 4
-    4 --> 5
-    5 --> 6
-
-    classDef critical fill:#ff9666
-    class 1,2,4,5,6 critical
