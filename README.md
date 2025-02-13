@@ -209,3 +209,37 @@ gantt
     Mise à jour du planning            :2025-01-01, 2025-06-01
     Gestion des risques                :2025-01-01, 2025-06-01
     Clôture et bilan du projet         :2025-06-02, 2025-06-15
+
+
+flowchart LR
+    %% Définition des nœuds
+    1["1: Début
+    ES:0 | LS:0
+    Durée: 0"]
+    2["2: Conception
+    ES:5 | LS:5
+    Durée: 5"]
+    3["3: Planification
+    ES:3 | LS:8
+    Durée: 3"]
+    4["4: Développement
+    ES:12 | LS:12
+    Durée: 7"]
+    5["5: Tests
+    ES:15 | LS:15
+    Durée: 3"]
+    6["6: Fin
+    ES:18 | LS:18
+    Durée: 0"]
+
+    %% Définition des liens
+    1 --> 2
+    1 --> 3
+    2 --> 4
+    3 --> 4
+    4 --> 5
+    5 --> 6
+
+    %% Style pour le chemin critique
+    classDef critical fill:#ff9666,stroke:#333,stroke-width:2px;
+    class 1,2,4,5,6 critical;
