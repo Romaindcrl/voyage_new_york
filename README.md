@@ -166,10 +166,3 @@ Ci-dessous, 5 tâches parmi les plus urgentes ou structurantes, détaillées sel
 | **Élaboration du budget détaillé et suivi**   | Responsable : Membre de l’équipe Budget.      | Rassembler coûts, mettre en place tableau de suivi. | Excel/Google Sheets.                | Estimation : janvier-février 2025. Mise à jour continue.   | Créer tableau, suivre écarts, ajuster.            |
 
 ---
-
-
-### *Synthèse*
-
-* *Avant la pause*, la professeure souhaite voir :
-  1. *Une WBS complète* (structure du projet en grands lots et sous-lots)
-  2. *Au moins 5 tâches* décrites en *QQOQC*
