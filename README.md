@@ -166,7 +166,9 @@ Ci-dessous, 5 tâches parmi les plus urgentes ou structurantes, détaillées sel
 | **Élaboration du budget détaillé et suivi**   | Responsable : Membre de l’équipe Budget.      | Rassembler coûts, mettre en place tableau de suivi. | Excel/Google Sheets.                | Estimation : janvier-février 2025. Mise à jour continue.   | Créer tableau, suivre écarts, ajuster.            |
 
 ---
+# Diagramme de Gantt pour le projet de voyage à New York
 
+```mermaid
 gantt
     title Diagramme de Gantt pour le projet de voyage à New York
     dateFormat  YYYY-MM-DD
