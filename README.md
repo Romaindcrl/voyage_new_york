@@ -211,13 +211,13 @@ gantt
     Clôture et bilan du projet         :2025-06-02, 2025-06-15
 
 
-flowchart LR
-    1["1: Début\nES:0|LS:0\nD:0"]
-    2["2: Conception\nES:5|LS:5\nD:5"]
-    3["3: Planification\nES:3|LS:8\nD:3"]
-    4["4: Développement\nES:12|LS:12\nD:7"]
-    5["5: Tests\nES:15|LS:15\nD:3"]
-    6["6: Fin\nES:18|LS:18\nD:0"]
+graph LR
+    1[Début 0|0]
+    2[Conception 5|5]
+    3[Planning 3|8]
+    4[Dev 12|12]
+    5[Test 15|15]
+    6[Fin 18|18]
 
     1 --> 2
     1 --> 3
@@ -226,5 +226,5 @@ flowchart LR
     4 --> 5
     5 --> 6
 
-    classDef critical fill:#ff9666,stroke:#333,stroke-width:2px
+    classDef critical fill:#ff9666
     class 1,2,4,5,6 critical
