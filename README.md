@@ -211,4 +211,47 @@ gantt
     Clôture et bilan du projet         :2025-06-02, 2025-06-15
 
 
+### Plan de Communication
 
+*Objectifs de communication :*
+
+* Assurer une coordination fluide entre les membres du projet
+* Informer les parties prenantes sur l’avancement du projet
+* Garantir une communication efficace entre les étudiants, les partenaires et les institutions
+
+*1. Communication interne*
+
+| *Canal*            | *Fréquence* | *Responsable*             | *Public cible*          | *Contenu* |
+|---------------------|--------------|----------------------------|--------------------------|-------------|
+| Réunions physiques | Hebdomadaire  | Chef de projet             | Équipe projet            | Suivi global du projet, décisions stratégiques |
+| Groupe WhatsApp    | Quotidien     | Tous les membres           | Équipe projet            | Annonces rapides, échanges informels |
+| Email              | Bimensuel     | Chef de projet             | Membres impliqués        | Comptes rendus, points d’étape |
+| Trello/Notion      | Continu       | Chef de projet             | Équipe projet            | Suivi des tâches et deadlines |
+
+*2. Communication externe*
+
+| *Canal*         | *Fréquence*  | *Responsable*         | *Public cible*       | *Contenu* |
+|------------------|---------------|------------------------|----------------------|-------------|
+| Email           | Mensuel        | Responsable Communication | Partenaires, incubateurs | Informations sur l’organisation et demande de collaboration |
+| LinkedIn        | Mensuel        | Responsable Communication | Sponsors, étudiants    | Promotion du projet et retours d’expérience |
+| Site web / Blog | Trimestriel    | Responsable Communication | Grand public          | Articles sur le projet et son impact |
+
+*3. Plan de gestion des urgences*
+
+| *Type d'urgence*     | *Canal prioritaire* | *Responsable* |
+|----------------------|-------------------|--------------|
+| Changement de planning | WhatsApp + Email  | Chef de projet |
+| Imprévu budgétaire    | Email + Réunion   | Responsable budget |
+| Problème logistique  | WhatsApp + Téléphone | Responsable logistique |
+
+
+
+### Détails QQOQC des 5 Tâches Principales
+
+| *Tâche*                                     | *Qui ?*                                     | *Quoi ?*                                          | *Où ?*                            | *Quand ?*                                                | *Comment ?*                                     |
+| --------------------------------------------- | --------------------------------------------- | --------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------- | ------------------------------------------------- |
+| *Constitution de l’équipe projet*           | Responsable : Chef de projet.                 | Sélectionner les personnes pour chaque partie.      | Salle de cours ou visioconférence.  | Cette semaine (janvier 2025) à fin de la 1ère semaine      | Sondage, entretiens courts, groupe WhatsApp.      |
+| *Réservation des vols*                      | Responsable : Membre de l’équipe Transport.   | Trouver des vols pour 30 personnes.                 | Skyscanner, agences locales.        | Recherche : janvier-février 2025. Réservation : mars 2025. | Comparer offres, vérifier conditions, négocier.   |
+| *Sélection et réservation des hébergements* | Responsable : Membre de l’équipe Hébergement. | Identifier options (hôtels, auberges, Airbnb).      | Booking, Airbnb, Hostelworld.       | Recherche : février 2025. Réservation : mars 2025.         | Créer tableau comparatif, vérifier disponibilité. |
+| *Organisation des visites culturelles*      | Responsable : Membre Activités et visites.    | Lister sites touristiques, planifier visites.       | Times Square, Statue de la Liberté. | Recherche : avril 2025. Réservations : mai 2025.           | Sites officiels, planning, prévoir temps libre.   |
+| *Élaboration du budget détaillé et suivi*   | Responsable : Membre de l’équipe Budget.      | Rassembler coûts, mettre en place tableau de suivi. | Excel/Google Sheets.                | Estimation : janvier-février 2025. Mise à jour continue.   | Créer tableau, suivre écarts, ajuster.            |
